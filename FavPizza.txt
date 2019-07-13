@@ -1,4 +1,4 @@
 Name,Favorite Pizza Seller, Favorite Pizza
 Joe Beale, Pizza Joint, The Big One
-Caroline Beale, Pizza Hut, Stuffed Crust Hawaiian
-Stetson Beale, Pizza Hut, Supreme
+Caroline Beale, doesn't matter, pizza
+tetson Beale, Pizza Hut, Stuffed Crust Hawaiian
